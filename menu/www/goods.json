@@ -1,0 +1,297 @@
+{
+	"1501":{
+		"type": "ЭКОНОМ ОБЕД",
+		"name":"Морковь по корейски",
+		"weight":"125",
+		"cost":"25",
+		"image" : "image/food/friday/econom/morkovka_po_koreiski.JPG"
+	},
+	"1502":{
+		"type": "ЭКОНОМ ОБЕД",
+		"name":"Суп-пюре из шампиньонов",
+		"weight":"250",
+		"cost":"60",
+		"image" : "image/food/friday/econom/krem-sup_iz_shampinonov.jpg"
+	},
+	"1503":{
+		"type": "ЭКОНОМ ОБЕД",
+		"name":"Капуста, тушенная с сосисками",
+		"weight":"250",
+		"cost":"70",
+		"image" : "image/food/friday/econom/solyanka_iz_kapusti_s_sosiskoi.jpg"
+	},
+	"1504":{
+		"type": "ЭКОНОМ ОБЕД",
+		"name":"Чай",
+		"weight":"200 мл/ 16",
+		"cost":"15",
+		"image" : "image/food/friday/econom/chai.JPG"
+	},
+		"1505":{
+		"type":"ДИЕТИЧЕСКОЕ МЕНЮ",
+		"name":"Каша молочная геркулесовая с маслом",
+		"weight":"250",
+		"cost":"40",
+		"image" : "image/food/friday/dietary/gerkulesovaya_kasha.jpg"
+	},
+	"1506":{
+		"type":"ДИЕТИЧЕСКОЕ МЕНЮ",
+		"name":"Пудинг творожный с курагой, сгущенным молоком",
+		"weight":"150/20",
+		"cost":"60",
+		"image" : "image/food/friday/dietary/puding_dieticheskii.jpg"
+	},
+	"1507":{
+		"type":"ДИЕТИЧЕСКОЕ МЕНЮ",
+		"name":"Пудинг творожный с курагой, сметаной",
+		"weight":"150/20",
+		"cost":"60",
+		"image" : "image/food/friday/dietary/puding_dieticheskii.jpg"
+	},
+		"1508":{
+		"type":"ХОЛОДНЫЕ ЗАКУСКИ",
+		"name":"Апельсин с клюквенным соусом",
+		"weight":"80/20",
+		"cost":"40",
+		"image" : "image/food/friday/cold/apelsiny.jpg"
+	},
+	"1509":{
+		"type":"ХОЛОДНЫЕ ЗАКУСКИ",
+		"name":"Морковь по-корейски",
+		"weight":"150",
+		"cost":"25",
+		"image" : "image/food/friday/cold/morkov_po-koreiski.png"
+	},
+	"1510":{
+		"type":"ХОЛОДНЫЕ ЗАКУСКИ",
+		"name":"Салат 'Витаминный'",
+		"weight":"100",
+		"cost":"30",
+		"image" : "image/food/friday/cold/salat_vitamin.JPG"
+	},
+	"1511":{
+		"type":"ХОЛОДНЫЕ ЗАКУСКИ",
+		"name":"Салат 'Лобио'",
+		"weight":"100",
+		"cost":"",
+		"image" : "image/food/friday/cold/salat_lubio.JPG"
+	},
+	"1512":{
+		"type":"ХОЛОДНЫЕ ЗАКУСКИ",
+		"name":"Салат 'Мозаика'",
+		"weight":"100",
+		"cost":"45",
+		"image" : "image/food/friday/cold/salat_mozaika.JPG"
+	},
+	"1513":{
+		"type":"ХОЛОДНЫЕ ЗАКУСКИ",
+		"name":"Салат 'Оливье'",
+		"weight":"100",
+		"cost":"40",
+		"image" : "image/food/friday/cold/salat_olive.JPG"
+	},"1514":{
+		"type":"ХОЛОДНЫЕ ЗАКУСКИ",
+		"name":"Сельдь 'под шубой'",
+		"weight":"100",
+		"cost":"60",
+		"image" : "image/food/friday/cold/salat_shuba.JPG"
+	},"1515":{
+		"type":"ПЕРВЫЕ БЛЮДА",
+		"name":"Солянка мясная сборная со сметаной, лимоном, маслиной",
+		"weight":"100",
+		"cost":"90",
+		"image" : "image/food/friday/1/solyanka_sbornaya_myasnaya.jpg"
+	},"1516":{
+		"type":"ПЕРВЫЕ БЛЮДА",
+		"name":"Суп-пюре из шампиньонов",
+		"weight":"250",
+		"cost":"60",
+		"image" : "image/food/friday/1/gribnoi_krem-sup_iz_shampinonov.JPG"
+	},"1517":{
+		"type":"ВТОРЫЕ БЛЮДА",
+		"name":"Жульен на сливках",
+		"weight":"100",
+		"cost":"90",
+		"image" : "image/food/friday/2/gribnoi_julen_so_slivkami.jpg"
+	},"1518":{
+		"type":"ВТОРЫЕ БЛЮДА",
+		"name":"Капуста, тушенная с сосисками",
+		"weight":"250",
+		"cost":"70",
+		"image" : "image/food/friday/2/tushenaya_kapusta_s_sosiskoi.jpg"
+	},"1519":{
+		"type":"ВТОРЫЕ БЛЮДА",
+		"name":"Котлета 'Московская'",
+		"weight":"100",
+		"cost":"85",
+		"image" : "image/food/friday/2/kotleti_moscow.jpg"
+	},"1520":{
+		"type":"ВТОРЫЕ БЛЮДА",
+		"name":"Котлета рыбная 'Нежная'",
+		"weight":"100",
+		"cost":"115",
+		"image" : "image/food/friday/2/kotleti_iz_ribnogo_farsha.jpg"
+	},"1521":{
+		"type":"ВТОРЫЕ БЛЮДА",
+		"name":"Куры жареные",
+		"weight":"120",
+		"cost":"95",
+		"image" : "image/food/friday/cold/salat_shuba.JPG"
+	},"1522":{
+		"type":"ВТОРЫЕ БЛЮДА",
+		"name":"Поджарка из филе кур",
+		"weight":"75/50",
+		"cost":"105",
+		"image" : "image/food/friday/2/jarenaya_kurica.jpg"
+	},"1523":{
+		"type":"ВТОРЫЕ БЛЮДА",
+		"name":"Рыба отварная с лимоном",
+		"weight":"100/10",
+		"cost":"170",
+		"image" : "image/food/friday/2/otvarnaya_treska.jpg"
+	},"1524":{
+		"type":"ВТОРЫЕ БЛЮДА",
+		"name":"Свинина, запеченная с помидором, сыром",
+		"weight":"80/40",
+		"cost":"140",
+		"image" : "image/food/friday/2/myaso.jpg"
+	},"1525":{
+		"type":"ГАРНИРЫ",
+		"name":"Картофельное пюре",
+		"weight":"150",
+		"cost":"35",
+		"image" : "image/food/friday/garnish/piure_iz_kartofelya.jpg"
+	},"1526":{
+		"type":"ГАРНИРЫ",
+		"name":"Рис, припущенный в бульоне",
+		"weight":"150",
+		"cost":"20",
+		"image" : "image/food/friday/garnish/ris.jpg"
+	},"1527":{
+		"type":"ГАРНИРЫ",
+		"name":"Соте овощное",
+		"weight":"150",
+		"cost":"65",
+		"image" : "image/food/friday/garnish/ovoshi_sote.jpg"
+	},"1528":{
+		"type":"СОУСЫ / ХЛЕБ",
+		"name":"Горчица",
+		"weight":"10",
+		"cost":"5",
+		"image" : "image/food/friday/sauces/gorchica.jpg"
+	},"1529":{
+		"type":"СОУСЫ / ХЛЕБ",
+		"name":"Кетчуп 'Хайнц'",
+		"weight":"50",
+		"cost":"20",
+		"image" : "image/food/friday/sauces/ketchup-mal.jpg"
+	},"1530":{
+		"type":"СОУСЫ / ХЛЕБ",
+		"name":"Подлива мясная (Поджарка)",
+		"weight":"50",
+		"cost":"5",
+		"image" : "image/food/friday/sauces/podliva.jpeg"
+	},"1531":{
+		"type":"СОУСЫ / ХЛЕБ",
+		"name":"Соус 'Тар-тар'",
+		"weight":"50",
+		"cost":"20",
+		"image" : "image/food/friday/sauces/sous_tar-tar.jpg"
+	},"1532":{
+		"type":"СОУСЫ / ХЛЕБ",
+		"name":"Соус томатный острый",
+		"weight":"50",
+		"cost":"15",
+		"image" : "image/food/friday/sauces/tomatnii.jpg"
+	},"1533":{
+		"type":"СОУСЫ / ХЛЕБ",
+		"name":"Хлеб пшеничный",
+		"weight":"35",
+		"cost":"3",
+		"image" : "image/food/friday/sauces/pshenichnii_hleb-.jpg"
+	},"1534":{
+		"type":"СОУСЫ / ХЛЕБ",
+		"name":"Хлеб ржаной",
+		"weight":"35",
+		"cost":"2",
+		"image" : "image/food/friday/sauces/pshenichno-rjanoi_hleb.jpg"
+	},"1535":{
+		"type":"СОУСЫ / ХЛЕБ",
+		"name":"Хрен столовый",
+		"weight":"10",
+		"cost":"5",
+		"image" : "image/food/friday/sauces/sous_iz_hrena.jpg"
+	},"1536":{
+		"type":"НАПИТКИ",
+		"name":"Горячий шоколад",
+		"weight":"200",
+		"cost":"30",
+		"image" : "image/food/friday/drink/domashnii_goryachii_shokolad.jpg"
+	},"1537":{
+		"type":"НАПИТКИ",
+		"name":"Компот вишнёвый",
+		"weight":"200",
+		"cost":"30",
+		"image" : "image/food/friday/drink/kompot_iz_svejih_fruktov.jpg"
+	},"1538":{
+		"type":"НАПИТКИ",
+		"name":"Компот из кураги",
+		"weight":"200",
+		"cost":"30",
+		"image" : "image/food/friday/drink/kompot_iz_kuragi.jpg"
+	},"1539":{
+		"type":"НАПИТКИ",
+		"name":"Кофе 3 в 1",
+		"weight":"200",
+		"cost":"25",
+		"image" : "image/food/friday/drink/3in1.jpg"
+	},"1540":{
+		"type":"НАПИТКИ",
+		"name":"Кофе б/р без сахара",
+		"weight":"200",
+		"cost":"25",
+		"image" : "image/food/friday/drink/kofe_v_turke.JPG"
+	},"1541":{
+		"type":"НАПИТКИ",
+		"name":"Кофе б/р с сахара",
+		"weight":"200/16",
+		"cost":"25",
+		"image" : "image/food/friday/drink/kofe_v_turke.JPG"
+	},"1542":{
+		"type":"НАПИТКИ",
+		"name":"Сок в ассортименте",
+		"weight":"200",
+		"cost":"35",
+		"image" : "image/food/friday/drink/kofe_v_turke.JPG"
+	},"1543":{
+		"type":"НАПИТКИ",
+		"name":"Чай без сахара",
+		"weight":"200",
+		"cost":"15",
+		"image" : "image/food/friday/drink/chai.JPG"
+	},"1544":{
+		"type":"НАПИТКИ",
+		"name":"Чай без сахара",
+		"weight":"200",
+		"cost":"15",
+		"image" : "image/food/friday/drink/chai.JPG"
+	},"1545":{
+		"type":"НАПИТКИ",
+		"name":"Чай с лимоном",
+		"weight":"200/7",
+		"cost":"15",
+		"image" : "image/food/friday/drink/chai.JPG"
+	},"1546":{
+		"type":"НАПИТКИ",
+		"name":"Чай с сахаром",
+		"weight":"200/16",
+		"cost":"15",
+		"image" : "image/food/friday/drink/chai.JPG"
+	},"1547":{
+		"type":"НАПИТКИ",
+		"name":"Чай с сахаром и лимоном",
+		"weight":"200/16/7",
+		"cost":"15",
+		"image" : "image/food/friday/drink/chai.JPG"
+	}
+}

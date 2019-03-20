@@ -1,0 +1,165 @@
+*{/*стиль для всех эллементов*/
+  margin: 0;/*внешний отступ*/
+  padding: 0;/*внутренний отступ*/
+
+}
+A {
+    text-decoration: none;
+ }
+ 
+
+.car{/*для корзину*/
+	background-color:#FAFFCC;/*цвет фона*/
+	margin: 10px 0px;
+	width: 100%;/*ширина*/
+	display: flex;	
+}
+
+
+.graficcar{
+	padding:20px 20px;
+	max-width: 100%;
+	margin-left: auto;
+	background-color:#FAFFCC;
+	color:#FAFFCC;
+
+}
+
+.graficcar :hover{/*стиль при нажатии на корзинку*/
+ -webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);	
+}
+
+.graficmenu{/*стиль для иконки меню*/
+	padding:20px 20px;
+	max-width: 100%;
+	margin-left: auto;
+	background-color:#FAFFCC;
+	color:#FAFFCC;
+	opacity:0.7;
+
+}
+
+.graficmenu :hover{
+ -webkit-transform: scale(1.1);
+ -moz-transform: scale(1.1);
+ -o-transform: scale(1.1);	
+}
+
+.graficlogo{/*стиль для герба МГТУ*/
+	padding:10px 15px;
+	max-width: 100%;
+	background-color:#FAFFCC;
+	color:#FAFFCC;
+}
+.mgtu{
+	padding: 55px 20px 0px 0px;
+	background-color:#FAFFCC;
+}
+nav{/*стиль для категорий вверху страницы*/
+	margin:auto;
+ padding: 5px 6px;
+	width: 1200px;
+	height: 10px;	
+  display: flex;
+}
+
+.topnav a{
+		color:#000000;
+		text-align:center;
+		padding: 5px 6px;
+		font-size: 18px;
+ 
+}
+
+.topnav a:hover{
+	border-bottom: 2px solid #000000;
+
+}
+
+.single {/*стиль для див с меню*/
+	background-color:#FAFFCC;
+	padding: auto;
+	border:1px solid gray;
+	border-radius: 8px;
+	opacity:0.9;
+	display: inline-block;	
+	width: 280px;
+	height: auto ;
+	margin: 40px 10px;
+	text-align: center;
+}
+.info{
+	text-align: match-parent;
+}
+
+.single button{
+	background-color:#E2FF9F;
+	display: block;
+	margin: 5px auto;
+	-moz-border-radius:  5px;
+	-webkit-border-radius:  5px;
+	border-radius:  5px;
+
+}
+.single button:hover{
+	margin: 6px auto;
+	border:1px solid green;
+	background-color:#DAFF85;
+}
+
+.purchases{/*стиль для вывода выбранных блюд в корзинке*/
+	background-color:#FAFFCC;
+	padding:10px 5px;
+	border:1px solid gray;
+	border-radius: 8px;
+	opacity:0.9;
+	margin: 40px 10px;
+	display: inline-block;	
+	width: 270px;
+	text-align: center;	
+}
+.purchases:hover{
+	background-color:#E2FF9F;
+}
+
+.cost{/*стиль для цены*/
+	background-color:#E2FF9F;
+	padding: 5px;
+	margin: 5px 500px;
+	border:1px solid black;
+	border-radius: 8px;
+	opacity:0.9;
+	text-align: center;
+	box-shadow: 10px 5px 5px gray;
+	
+}
+.minus{/*стиль для скнопки минус на странице корзины*/
+	background-color:#FF7C5F;
+	margin: 0px 2px;
+	padding: 0px 2px;
+	border: 1px solid black;
+	border-radius: 100px;
+
+}
+.plus{/*стиль для скнопки плюс на странице корзины*/
+	background-color:#C4FF30;
+	margin: 0px 2px;
+	padding: 0px 2px;
+	border: 1px solid black;
+	border-radius: 100px;
+	
+}
+
+.delete{/*стиль для скнопки удаления на странице корзины*/
+background-color:#F4FF7B;
+	margin: 0px 2px;
+	padding: 0px 2px;
+	border: 1px solid black;
+	border-radius: 3px;	
+}
+
+.h{
+	text-align: center;
+}
